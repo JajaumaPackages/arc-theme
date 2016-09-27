@@ -11,8 +11,6 @@ BuildArch:      noarch
 BuildRequires:  autoconf
 BuildRequires:  automake
 BuildRequires:  gtk3-devel
-Requires:       gtk2
-Requires:       gtk3
 Requires:       gnome-themes-standard
 Requires:       gtk-murrine-engine
 
